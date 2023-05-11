@@ -7,6 +7,7 @@ content_reference_json: ./meta204/204gdmap.json
 content_font: "common_words" #content file name
 language: "chn"
 
+# model
 C: 32
 input_size: 128
 num_heads: 8
